@@ -1,1 +1,1 @@
-# coursera-capstone-ML
+# coursera-capstone
